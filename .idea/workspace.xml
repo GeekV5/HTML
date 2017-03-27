@@ -1,7 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c230a5e8-abad-48a0-b9a1-22b322981dbd" name="默认的" comment="" />
+    <list default="true" id="c230a5e8-abad-48a0-b9a1-22b322981dbd" name="默认的" comment="20170327-21:43">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/metro.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/metro.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/metro.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Battlefield_4_Icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Blank_Folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Calendar-Next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Checkmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Crysis-2-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Folder-Rename.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MSFT_logo_png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Metro_author_100x20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Metro_member_100x20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Metro_moster_100x20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Metro_unior_100x20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Notebook-Save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/PhpStorm_boxshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/WorldofTanks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/access.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bd-rom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bizspark_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bizspark_b_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clear-day.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clear-night.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/clouds2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cloudy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/css-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/disk-sys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/excel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ak.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/al.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/az.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/fl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/hi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/il.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/la.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/md.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/me.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/mi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/mn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/mo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/mt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/nc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/nd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/nh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/nj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/nm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/nv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ny.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/oh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/or.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/pa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ri.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/sc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/tx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/ut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/va.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/vt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/wa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/wi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/wv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/flags/wy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/fog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/folder-documents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/folder-downloads.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/folder-images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/folder-music.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/folder-videos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/folder_with_file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/grid2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/halo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/hard-drive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jek_vorobey.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jeki_chan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jetbrains.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/jolie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/keycdn-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/live1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/live2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo_JetBrains_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/me.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/me_150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/myface.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/obama.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/onenote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/org-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/outlook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/partly-cloudy-day.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/partly-cloudy-night.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/photo_album.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/phpstorm_7_eap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/power.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/powerpoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/rain.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/round.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shvarcenegger.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sleet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/snow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/spface.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/spface2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/toggle-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vin_d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/whats-new.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/wind.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/wn8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/word.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/x-box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/zadorozhnyi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/timg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-colors.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-icons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-rtl.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-schemes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro-schemes.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/metro.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/metro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/geekinfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon_PhpStorm.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/keycdn-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/metro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/metro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startPage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,8 +176,103 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="metro.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/metro.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="14340" column="7" lean-forward="false" selection-start-line="14340" selection-start-column="7" selection-end-line="14340" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metro.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/metro.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="2347" column="49" lean-forward="false" selection-start-line="2347" selection-start-column="49" selection-end-line="2347" selection-end-column="49" />
+              <folding>
+                <marker date="1490622579540" expanded="true" signature="77975:77984" ph="..." />
+                <marker date="1490622579540" expanded="true" signature="107572:107580" ph="..." />
+                <marker date="1490622579540" expanded="true" signature="107898:107906" ph="..." />
+                <marker date="1490622579540" expanded="true" signature="207827:207855" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metro.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fonts/metro.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keycdn-logo.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/keycdn-logo.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startPage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/startPage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="25" column="67" lean-forward="false" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geekinfo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geekinfo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="193" column="65" lean-forward="false" selection-start-line="193" selection-start-column="65" selection-end-line="193" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tiles.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiles.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hufuping &lt;2273885490@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fonts/metro.svg" />
+        <option value="$PROJECT_DIR$/images/keycdn-logo.svg" />
+        <option value="$PROJECT_DIR$/geekinfo.html" />
+        <option value="$PROJECT_DIR$/css/metro.css" />
+        <option value="$PROJECT_DIR$/js/metro.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -28,9 +286,47 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\git_workspace\HTML02" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,6 +340,68 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -55,31 +413,33 @@
       <option name="presentableId" value="Default" />
       <updated>1490620806582</updated>
       <workItem from="1490620807949" duration="104000" />
+      <workItem from="1490622113328" duration="491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104000" />
+    <option name="totallyTimeSpent" value="595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5329609" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -90,8 +450,75 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20170327-21:43" />
+    <option name="LAST_COMMIT_MESSAGE" value="20170327-21:43" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fonts/metro.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/keycdn-logo.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="25" column="67" lean-forward="false" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geekinfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="193" column="65" lean-forward="false" selection-start-line="193" selection-start-column="65" selection-end-line="193" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/metro.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="14340" column="7" lean-forward="false" selection-start-line="14340" selection-start-column="7" selection-end-line="14340" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/metro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="2347" column="49" lean-forward="false" selection-start-line="2347" selection-start-column="49" selection-end-line="2347" selection-end-column="49" />
+          <folding>
+            <marker date="1490622579540" expanded="true" signature="77975:77984" ph="..." />
+            <marker date="1490622579540" expanded="true" signature="107572:107580" ph="..." />
+            <marker date="1490622579540" expanded="true" signature="107898:107906" ph="..." />
+            <marker date="1490622579540" expanded="true" signature="207827:207855" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
